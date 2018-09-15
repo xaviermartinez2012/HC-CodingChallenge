@@ -1,0 +1,8 @@
+# Virtual Enviroment
+pyvenv.cfg
+lib/
+include/
+bin/
+pip-selfcheck.json
+# VSCode
+.vscode/
